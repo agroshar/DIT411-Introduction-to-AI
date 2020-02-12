@@ -1,4 +1,4 @@
-# Introduction_to_AI_Project
+# Introduction to AI Project
 
 # Classifying handwritten digits 
 
