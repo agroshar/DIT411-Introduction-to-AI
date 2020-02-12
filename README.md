@@ -1,6 +1,6 @@
 # Introduction to AI Project
 
-# Classifying handwritten digits 
+## Classifying handwritten digits 
 
 The idea behind the project is to train a convolutional neural network to classify images of digits. Then create an input box which is able to detect what digit is being drawn in real time.
 
@@ -9,7 +9,7 @@ The training data we want to use the MNIST dataset, which is a dataset of thousa
 For building our machine learning model we intend to use PyTorch. We have chosen this framework because it is open-source and should supposedly be easy to work with.
 
 
-# Possible extensions:
+## Possible extensions:
 
 - Reduce the input space by PCA and then use K-Means clustering to classify unlabeled digit imagery and compare the algorithms.
 
